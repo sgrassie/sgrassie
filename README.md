@@ -18,7 +18,7 @@ I'm a software developer with a passion for building practical tools and applica
 
 ## 📊 GitHub Stats
 
-![Stuart's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgrassie&show_icons=true&theme=default&hide_border=true)
+![Stuart's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgrassie&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
 
 ## 🔗 Connect With Me
 
