@@ -4,7 +4,7 @@
 
 I'm a software developer with a passion for building practical tools and applications. I enjoy working on projects that solve real-world problems and sharing my knowledge through my blog.
 
-- 🌐 Blog: [temporalcohesion.co.uk](https://sgrassie.github.io)
+- 🌐 Blog: [sgrassie.github.io](https://sgrassie.github.io) (temporalcohesion.co.uk)
 - 💼 Focused on .NET development and open-source contributions
 - 🎯 Building tools like [BlogHelper9000](https://github.com/sgrassie/BlogHelper9000) to automate Jekyll blog workflows
 - 📚 Maintaining [NetIrc2](https://github.com/sgrassie/NetIrc2) - an easy-to-use .NET IRC client library
@@ -23,7 +23,7 @@ I'm a software developer with a passion for building practical tools and applica
 
 ## 🔗 Connect With Me
 
-- 📝 Blog: [temporalcohesion.co.uk](https://sgrassie.github.io)
+- 📝 Blog: [sgrassie.github.io](https://sgrassie.github.io)
 - 💻 GitHub: [@sgrassie](https://github.com/sgrassie)
 
 ---
